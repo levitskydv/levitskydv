@@ -13,19 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Привет, меня зовут Дима!
+# Hi! It's Dima ✌🏻
 
 ---
 
-### 👨🏻‍💻 Обо мне:
+### 👨🏻‍💻 About:
 
-Я - «играющий» менеджер по клиентской и внутренней IT поддержке, с 2015 года возглавлявший кросс-функциональные команды в FinTech, MarTech, E-Com, B2B SaaS и B2C проектах. Обладаю экспертным уровнем в организации процессов, коммуникации и устранении неполадок в IT. Улучшаю метрики и менеджмент на основе аналитики данных.
+I am the playing manager of customer and inner IT support, who have been leading cross-functional teams within FinTech, MarTech, E-Com, B2B SaaS and B2C projects since 2015. I have the expert level of IT troubleshooting, communication and process management with deep understanding of Customer Success needs. Data-driven analytics helps me to create impact and find growth points in quality of the client-oriented products and services.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Gmail Badge](https://img.shields.io/badge/-Protonmail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
-- Моя [страничка](https://nomadswitch.com/main-ru) и [блог](https://nomadswitch.com/blog-ru)
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Gmail Badge](https://img.shields.io/badge/-Protonmail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
+- My [homepage](https://nomadswitch.com) and [blog](https://nomadswitch.com/blog)
 
 ---
-### 🤝🏻 Социальные сети:
+### 🤝🏻 Socials:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/levitskydv/" target="_blank">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📁 Документация:
+### 📁 Documentation:
 
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 👀 Мониторинг:
+### 👀 Monitoring:
 
 <div>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" title="elk" alt="elk" width="40" height="40"/>&nbsp
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web Application Testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Working with data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 Визуализация данных:
+### 📊 Data visualization:
 
 <div>
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="looker" alt="looker" width="40" height="40"/>&nbsp
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Working with code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
