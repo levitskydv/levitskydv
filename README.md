@@ -12,16 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://nomadswitch.com)
 
-# Hi! It's Dima ✌🏻
-
+<h1 align="center">Hi ✌🏻 I'm Dima</h1>
+<h3 align="center">A passionate IT manager</h3>
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=levitskydv&label=Profile%20views&color=0e75b6&style=flat" alt="levitskydv" /> </p>
 
 ### 👨🏻‍💻 About:
 
 I am the playing manager of customer and inner IT support, who have been leading cross-functional teams within FinTech, MarTech, E-Com, B2B SaaS and B2C projects since 2015. I have the expert level of IT troubleshooting, communication and process management with deep understanding of Customer Success needs. Data-driven analytics helps me to create impact and find growth points in quality of the client-oriented products and services.
 
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Gmail Badge](https://img.shields.io/badge/-Protonmail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Gmail Badge](https://img.shields.io/badge/-Protonmail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
 - My [homepage](https://nomadswitch.com) and [blog](https://nomadswitch.com/blog)
 
 ---
@@ -98,3 +101,11 @@ I am the playing manager of customer and inner IT support, who have been leading
 </div>
 
 ---
+
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=levitskydv&&theme=xcode)](https://github.com/levitskydv)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levitskydv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="levitskydv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levitskydv&show_icons=true&locale=en&theme=tokyonight" alt="levitskydv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levitskydv&&theme=tokyonight" alt="levitskydv" /></p>
