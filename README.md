@@ -38,12 +38,24 @@ Here are some ideas to get you started:
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Документация:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/353597/confluence.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
+  <img src="https://plugins.jetbrains.com/files/12513/429395/icon/pluginIcon.svg" title="allure_testops" alt="allure_testops" width="40" height="40"/>&nbsp
+  <img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 👀 Мониторинг:
+
+<div>
+  <img src="https://www.andreyus.com/wp-content/uploads/2019/08/ELK.png" title="elk" alt="elk" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -54,6 +66,7 @@ Here are some ideas to get you started:
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/browserstack-icon-512x511-xfk7rgj2.png" title="browserstack" alt="browserstack" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -63,6 +76,16 @@ Here are some ideas to get you started:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 📊 Визуализация данных:
+
+<div>
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="looker" alt="looker" width="40" height="40"/>&nbsp
+  <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" title="excel" alt="excel" width="40" height="40"/>&nbsp
+  <img src="https://asset.brandfetch.io/idmq1uuJbI/id2in349id.png" title="redash" alt="redash" width="40" height="40"/>&nbsp
 </div>
 
 ---
