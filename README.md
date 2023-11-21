@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### 📁 Документация:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/353597/confluence.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
   <img src="https://plugins.jetbrains.com/files/12513/429395/icon/pluginIcon.svg" title="allure_testops" alt="allure_testops" width="40" height="40"/>&nbsp
   <img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
@@ -53,10 +53,8 @@ Here are some ideas to get you started:
 ### 👀 Мониторинг:
 
 <div>
-  <img src="https://www.andreyus.com/wp-content/uploads/2019/08/ELK.png" title="elk" alt="elk" width="40" height="40"/>&nbsp
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" title="elk" alt="elk" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
-</div>
 
 ---
 
@@ -84,7 +82,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="looker" alt="looker" width="40" height="40"/>&nbsp
-  <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" title="excel" alt="excel" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="excel" alt="excel" width="40" height="40"/>&nbsp
   <img src="https://asset.brandfetch.io/idmq1uuJbI/id2in349id.png" title="redash" alt="redash" width="40" height="40"/>&nbsp
 </div>
 
