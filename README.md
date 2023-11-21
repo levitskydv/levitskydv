@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 About:
 
-I am the playing manager of customer and inner IT support, who have been leading cross-functional teams within FinTech, MarTech, E-Com, B2B SaaS and B2C projects since 2015. I have the expert level of IT troubleshooting, communication and process management with deep understanding of Customer Success needs. Data-driven analytics helps me to create impact and find growth points in quality of the client-oriented products and services.
+- I am the playing manager of customer and inner IT support, who have been leading cross-functional teams within FinTech, MarTech, E-Com, B2B SaaS and B2C projects since 2015. 
+- I have the expert level of IT troubleshooting, communication and process management with deep understanding of Customer Success needs. 
+- Data-driven analytics helps me to create impact and find growth points in quality of the client-oriented products and services.
 
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Gmail Badge](https://img.shields.io/badge/-Protonmail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
 - My [homepage](https://nomadswitch.com) and [blog](https://nomadswitch.com/blog)
