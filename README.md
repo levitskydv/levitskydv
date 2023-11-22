@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/353597/confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
-  <img src="https://plugins.jetbrains.com/files/12513/429395/icon/pluginIcon.svg" title="Allure%20Testops" alt="Allure%20Testops" width="40" height="40"/>&nbsp
+  <img src="https://plugins.jetbrains.com/files/12513/429395/icon/pluginIcon.svg" title="Allure Testops" alt="Allure Testops" width="40" height="40"/>&nbsp
   <img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="Soap%20UI" alt="Soap%20UI" width="40" height="40"/>&nbsp
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="Soap UI" alt="Soap UI" width="40" height="40"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/browserstack-icon-512x511-xfk7rgj2.png" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
 
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS%20Code" alt="VS%20Code" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp
 </div>
 
 ---
