@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 - I have the expert level of IT troubleshooting, communication and process management with deep understanding of Customer Success needs. 
 - Data-driven analytics helps me to create impact and find growth points in quality of the client-oriented products and services.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/willirove) [![Email Badge](https://img.shields.io/badge/-Protonmail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
-- My [![Homepage Badge](https://img.shields.io/badge/-homepage-#2c5e86?style=flat&logoColor=white)](https://nomadswitch.com) and [![Blog Badge](https://img.shields.io/badge/-blog-1E5E6B?style=flat&logoColor=white)](https://nomadswitch.com/blog)
+[![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-0565c9?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-139bce?style=flat&logo=telegram&logoColor=white)](https://t.me/willirove) [![Email Badge](https://img.shields.io/badge/-Protonmail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
+- My [![Homepage Badge](https://img.shields.io/badge/-homepage-2c5e86?style=flat&logoColor=white)](https://nomadswitch.com) and [![Blog Badge](https://img.shields.io/badge/-blog-1E5E6B?style=flat&logoColor=white)](https://nomadswitch.com/blog)
 
 <!--
 ### 🤝🏻 Socials:
@@ -63,12 +63,13 @@ Here are some ideas to get you started:
   <img src="https://plugins.jetbrains.com/files/12513/429395/icon/pluginIcon.svg" title="allure_testops" alt="allure_testops" width="40" height="40"/>&nbsp
   <img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-</div>
+</div>&nbsp
 
 👀 Monitoring
 <div>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" title="elk" alt="elk" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
+</div>&nbsp
 
 🛠 Web Application Testing
 <div>
@@ -76,20 +77,20 @@ Here are some ideas to get you started:
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/browserstack-icon-512x511-xfk7rgj2.png" title="browserstack" alt="browserstack" width="40" height="40"/>&nbsp
-</div>
+</div>&nbsp
 
 💾 Working with data
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-</div>
+</div>&nbsp
 
 📊 Data visualization
 <div>
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="looker" alt="looker" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="excel" alt="excel" width="40" height="40"/>&nbsp
   <img src="https://asset.brandfetch.io/idmq1uuJbI/id2in349id.png" title="redash" alt="redash" width="40" height="40"/>&nbsp
-</div>
+</div>&nbsp
 
 ✏️ Working with code
 <div>
@@ -104,6 +105,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levitskydv&show_icons=true&locale=en&theme=tokyonight" alt="levitskydv" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levitskydv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="levitskydv" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levitskydv&&theme=tokyonight" alt="levitskydv" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levitskydv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="levitskydv" /></p>
