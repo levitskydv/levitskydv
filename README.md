@@ -108,5 +108,6 @@ Here are some ideas to get you started:
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=levitskydv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="levitskydv" /></p>
 
+<p>&nbsp;</p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=levitskydv&&theme=tokyonight" alt="levitskydv" /></p>
