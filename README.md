@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 - I have the expert level of IT troubleshooting, communication and process management with deep understanding of Customer Success needs. 
 - Data-driven analytics helps me to create impact and find growth points in quality of the client-oriented products and services.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-0565c9?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-139bce?style=flat&logo=telegram&logoColor=white)](https://t.me/willirove) [![Email Badge](https://img.shields.io/badge/-Proton%20Mail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)&nbsp
+[![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-0565c9?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-139bce?style=flat&logo=telegram&logoColor=white)](https://t.me/willirove) [![Email Badge](https://img.shields.io/badge/-Proton%20Mail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
+
+&nbsp
+
 [![Homepage Badge](https://img.shields.io/badge/-My%20homepage-2c5e86?style=flat&logoColor=white)](https://nomadswitch.com) [![Blog Badge](https://img.shields.io/badge/-Blog-1E5E6B?style=flat&logoColor=white)](https://nomadswitch.com/blog)
 
 <!--
@@ -107,4 +110,4 @@ Here are some ideas to get you started:
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=levitskydv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="levitskydv" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=levitskydv&&theme=tokyonight" alt="levitskydv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levitskydv&&theme=tokyonight" alt="levitskydv" /></p>
