@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ---
 
-### My stack
+## My stack
 
 📁 Documentation
 <div>
