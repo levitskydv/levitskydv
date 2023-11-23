@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">✌🏻 Hello! I'm Dima</h1>
-<h3 align="center">A passionate IT manager</h3>
+<h3 align="center">A passionate IT Operations manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levitskydv&label=Profile%20views&color=0e75b6&style=flat" alt="levitskydv" /> </p>
 
