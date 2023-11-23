@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" title="ELK" alt="ELK" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/353838/graylog-icon.svg" title="Graylog" alt="Graylog" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
 
 🛠 Web Application Testing
@@ -104,8 +105,8 @@ Here are some ideas to get you started:
 
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=levitskydv&&theme=xcode)](https://github.com/levitskydv)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=levitskydv&show_icons=true&locale=en&theme=tokyonight" alt="levitskydv" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levitskydv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="levitskydv" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=levitskydv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="levitskydv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levitskydv&show_icons=true&locale=en&theme=tokyonight" alt="levitskydv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levitskydv&&theme=tokyonight" alt="levitskydv" /></p>
