@@ -89,9 +89,9 @@ Here are some ideas to get you started:
 
 📊 Data visualization
 <div>
-  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="Looker" alt="Looker" width="40" height="40"/>&nbsp
-  <img src="https://asset.brandfetch.io/idmq1uuJbI/id2in349id.png" title="Redash" alt="Redash" width="40" height="40"/>&nbsp
-  <img src="https://www.ambient-it.net/wp-content/uploads/2022/06/formation-power-query.png" title="Excel Power Query" alt="Excel Power Query" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="Looker" alt="Looker" width="43" height="40"/>&nbsp
+  <img src="https://asset.brandfetch.io/idmq1uuJbI/id2in349id.png" title="Redash" alt="Redash" width="43" height="40"/>&nbsp
+  <img src="https://www.ambient-it.net/wp-content/uploads/2022/06/formation-power-query.png" title="Excel Power Query" alt="Excel Power Query" width="43" height="40"/>&nbsp
 </div>&nbsp&nbsp
 
 ✏️ Working with code
