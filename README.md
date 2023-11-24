@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h1 align="center">✌🏻 Hello! I'm Dima</h1>
 <h3 align="center">A passionate IT Operations manager</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=levitskydv&label=Profile%20views%20since%20Nov2023&color=0e75b6&style=flat" alt="levitskydv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=levitskydv&label=Views%20since%20Nov2023&color=0e75b6&style=flat" alt="levitskydv" /> </p>
 
 ### 👨🏻‍💻 About me
 
