@@ -46,6 +46,7 @@ Here are some ideas to get you started:
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
+  https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png
 -->
 
 ---
@@ -89,9 +90,9 @@ Here are some ideas to get you started:
 
 📊 Data visualization
 <div>
-  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="Looker" alt="Looker" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp
-  <img src="https://asset.brandfetch.io/idmq1uuJbI/id2in349id.png" title="Redash" alt="Redash" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="Looker" alt="Looker" width="45" height="40"/>&nbsp
+  <img src="https://asset.brandfetch.io/idmq1uuJbI/id2in349id.png" title="Redash" alt="Redash" width="45" height="40"/>&nbsp
+  <img src="https://www.ambient-it.net/wp-content/uploads/2022/06/formation-power-query.png" title="Excel Power Query" alt="Excel Power Query" width="45" height="40"/>&nbsp
 </div>&nbsp&nbsp
 
 ✏️ Working with code
