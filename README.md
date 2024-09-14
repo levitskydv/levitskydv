@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 About me
 
-- I am the playing manager of customer and inner IT support, who have been leading cross-functional teams within FinTech, MarTech, E-Com, B2B SaaS and B2C projects since 2015. 
-- I have the expert level of IT troubleshooting, communication and process management with deep understanding of Customer Success needs. 
+- I am passionate QA engineer and the playing manager of customer and inner IT support, who have been participating in cross-functional teams within FinTech, MarTech, E-Com, B2B SaaS and B2C projects since 2015. 
+- I have the expert level of IT troubleshooting, communication and process management with deep understanding of QA/QC needs. 
 - Data-driven analytics helps me to create impact and find growth points in quality of the client-oriented products and services.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-0565c9?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-139bce?style=flat&logo=telegram&logoColor=white)](https://t.me/willirove) [![Email Badge](https://img.shields.io/badge/-Proton%20Mail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
