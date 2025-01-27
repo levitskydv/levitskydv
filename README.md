@@ -85,13 +85,16 @@ Here are some ideas to get you started:
   <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
   <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" title="Helm" alt="Helm" width="40" height="40"/>&nbsp
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" title="Helm" alt="Helm" width="40" height="40"/>&nbsp
   <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp
   <img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
   <img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
 
+💬 Message brokers
+<div>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp
+</div>&nbsp&nbsp
 
 ⚙️ QA
 <div>
