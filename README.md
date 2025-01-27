@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">✌🏻 Hello! I'm Dima</h1>
-<h3 align="center">A passionate IT Operations manager</h3>
+<h3 align="center">A passionate DevOps engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levitskydv&label=Views%20since%20Nov2023&color=0e75b6&style=flat" alt="levitskydv" /> </p>
 
 ### 👨🏻‍💻 About me
 
-- I am passionate QA engineer and the playing manager of customer and inner IT support, who have been participating in cross-functional teams within FinTech, MarTech, E-Com, B2B SaaS and B2C projects since 2015. 
-- I have the expert level of IT troubleshooting, communication and process management with deep understanding of QA/QC needs. 
-- Data-driven analytics helps me to create impact and find growth points in quality of the client-oriented products and services.
+- I'm passionate technical support engineer in the past and nowadays I'm DevOps / SRE engineer, who have been participating in cross-functional teams within FinTech, MarTech, E-Com, B2B SaaS and B2C projects since 2015. 
+- I have the expert level of IT troubleshooting, communication and process management with deep understanding of DevOps needs. 
+- Automation and huge interest to my niche help me to create impact and find growth points in quality of the client-oriented products and services.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-@levitskydv-0565c9?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/levitskydv/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-139bce?style=flat&logo=telegram&logoColor=white)](https://t.me/willirove) [![Email Badge](https://img.shields.io/badge/-Proton%20Mail-white?style=flat&logo=protonmail&logoColor=#6D4AFF)](mailto:majorcore@protonmail.ch)
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 👀 Monitoring
 <div>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" title="ELK" alt="ELK" width="40" height="40"/>&nbsp
+  <img src="https://gg-cms-admin-prd.s3.eu-west-1.amazonaws.com/iocms/efk_bd2e409195.jpg" title="EFK" alt="EFK" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/353838/graylog-icon.svg" title="Graylog" alt="Graylog" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
