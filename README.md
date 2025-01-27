@@ -73,7 +73,13 @@ Here are some ideas to get you started:
   <img src="https://www.svgrepo.com/show/353838/graylog-icon.svg" title="Graylog" alt="Graylog" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
 
-🛠 Web Application Testing
+💻 Operating System Administration
+<div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwFIMTaHA8xvSvuWR86WdLawKnfoYHwz4Dtw&s" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixpzqxpnMi5YGA87y2kta18uLDSMVnI5tzw&s" title="Debian" alt="Debian" width="40" height="40"/>&nbsp
+</div>&nbsp&nbsp
+
+🛠 CI/CD
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
