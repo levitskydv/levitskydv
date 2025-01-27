@@ -62,24 +62,38 @@ Here are some ideas to get you started:
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/353597/confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
   <img src="https://plugins.jetbrains.com/files/12513/429395/icon/pluginIcon.svg" title="Allure Testops" alt="Allure Testops" width="40" height="40"/>&nbsp
-  <img src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
 
 👀 Monitoring
 <div>
-  <img src="https://gg-cms-admin-prd.s3.eu-west-1.amazonaws.com/iocms/efk_bd2e409195.jpg" title="EFK" alt="EFK" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png" title="EFK" alt="EFK" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/353838/graylog-icon.svg" title="Graylog" alt="Graylog" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
 
 💻 Operating System Administration
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwFIMTaHA8xvSvuWR86WdLawKnfoYHwz4Dtw&s" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixpzqxpnMi5YGA87y2kta18uLDSMVnI5tzw&s" title="Debian" alt="Debian" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/CentOS.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/Debian.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
 
-🛠 CI/CD
+🛠 Containerization | Orchestration | CI/CD
+<div>
+  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" title="Helm" alt="Helm" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" title="Helm" alt="Helm" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp
+  <img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp
+</div>&nbsp&nbsp
+
+
+⚙️ QA
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
@@ -89,6 +103,7 @@ Here are some ideas to get you started:
 
 💾 Working with data
 <div>
+  <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp
 </div>&nbsp&nbsp
